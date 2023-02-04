@@ -1,5 +1,5 @@
 {
-    "current-theme": "dark",
+    "current-theme": "spotify-dark.html.j2",
     "templates": {
         "light": "spotify.html.j2",
         "dark": "spotify-dark.html.j2"
