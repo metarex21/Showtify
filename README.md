@@ -1,5 +1,5 @@
 # Showtify
- Shows your recently streamed song on spotify
+ Shows your recently streamed song on spotify as a web embed! To refresh the embed, reload the page!
 
 # Spotify API
 
