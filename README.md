@@ -46,7 +46,7 @@ curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorizat
 
 * Deploy!
 
-## # Readme
+### Readme
 
 You can now use the following in your readme:
 
