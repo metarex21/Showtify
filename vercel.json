@@ -1,1 +1,8 @@
-
+ {
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://github.com/metarex21/Showtify"
+    }
+  ]
+}
