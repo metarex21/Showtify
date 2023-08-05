@@ -47,9 +47,13 @@ curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorizat
 * Deploy!
 
 # Customization
-follow the markdown file [here](https://github.com/metarex21/Showtify/blob/main/customization.md)
+follow the markdown file [**here!**](https://github.com/metarex21/Showtify/blob/main/customization.md)
 # Readme
+
 
 You can now use the following in your readme:
 
 ```[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)```
+
+## Example
+[![Spotify](https://showtify21.vercel.app//api/spotify)](https://open.spotify.com/user/dcvxa8wbg6gxbdxgt6fa32veq) 
