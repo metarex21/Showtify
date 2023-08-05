@@ -1,5 +1,5 @@
 {
-    "name": "novatorem",
+    "name": "metarex21",
     "description": "Realtime profile Readme displaying currently playing song on Spotify using the Spotify API.",
     "scripts": {
         "postdeploy": "gunicorn --workers=1 api.spotify:app"
